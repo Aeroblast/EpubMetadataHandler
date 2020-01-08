@@ -1,1 +1,0 @@
-Regsvr32.exe EpubShellExtMetadataHandler.dll
